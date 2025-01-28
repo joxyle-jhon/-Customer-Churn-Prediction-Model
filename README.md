@@ -9,6 +9,9 @@ This project predicts customer churn for a telecom company using machine learnin
 - imbalanced-learn (SMOTE)
 - Matplotlib
 
+## Dataset
+[Telecom Company Dataset from Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
 ## Features
 - Data preprocessing: handling missing values, encoding categorical variables
 - SMOTE for balancing the dataset
